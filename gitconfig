@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = santiagoga@algartech.com
+	name = santiago graciano santiagoga@algartech.com
